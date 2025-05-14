@@ -4,6 +4,8 @@ Instructions on how to install SamanthAI on to your local machine.:
 
 1.Download the ZIP
 
+!!!WARNING: SamanthAI zip file is still not uploaded so for now you can go to the royalbotics/samanthai/how-to-make-ai.md to make your own AI assistant evevn a non programmer is able to do it!!!
+-------------
 2.Extract the ZIP file.
 
 On most systems, you can just right-click and select Extract.
@@ -39,3 +41,4 @@ Congrats you have sucsessfully istalled WSL.
 What now? Now just go to the instructions up above to install and run SmamnthAI on your local machine.
 
 Notice:SamanthAI is licenced under CC-BY-NC-ND what does it mean? I will be honest IDK. Only joking it bassicly means that SmanathAI is for home use only.
+# Want to make your own AI assistant (LLM) so open the how-to-make-own-ai.md that will give you full instructions and even a non programer will be able to make their own AI assistant.
