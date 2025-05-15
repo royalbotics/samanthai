@@ -41,4 +41,4 @@ Congrats you have sucsessfully istalled WSL.
 What now? Now just go to the instructions up above to install and run SmamnthAI on your local machine.
 
 Notice:SamanthAI is licenced under CC-BY-NC-ND what does it mean? I will be honest IDK. Only joking it bassicly means that SmanathAI is for home use only.
-# Want to make your own AI assistant (LLM) so open the how-to-make-own-ai.md that will give you full instructions and even a non programer will be able to make their own AI assistant.
+# Want to make your own AI assistant (LLM) so open the https://github.com/royalbotics/how-to-make-own-ai.md/ that will give you full instructions and even a non programer will be able to make their own AI assistant.
