@@ -166,6 +166,6 @@ This AI assistant is for **personal, non-commercial use** only unless you build 
 
 ---
 
-### 🧠 Built with ❤️ by [Your Name or Project Team]
+### 🧠 Built with ❤️ by Royal Botics 
 
 Feel free to customize this guide and assistant to reflect your own brand or vision!
